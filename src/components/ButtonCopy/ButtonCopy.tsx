@@ -19,13 +19,16 @@ export function ButtonCopy() {
   return (
     
     <><View style={styles.boxContainer}>
-      <TextInputCode
-        pass={pass} />
-    </View>
+         <TextInputCode style={styles.CharacterPass}
+           pass={pass} />
+      </View>
+
     <View>
       <SliderChoice/>
-        <Button
-          style={styles.container}
+      </View>
+    <View style={styles.boxContainer}>
+      
+        <Button style={styles.container}
           onPress={handleGenerationButton}
           title='GENERATOR'
           accessibilityLabel='Gerar' />

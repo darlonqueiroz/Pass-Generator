@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 export const styles = StyleSheet.create({
   container: {
     width: '100%',
+    height:20,
     backgroundColor:'#DCDCDC',
     color: 'white',
     borderRadius: 5,
@@ -11,7 +12,7 @@ export const styles = StyleSheet.create({
   },
   InputContainer:{
     width: '80%',
-    borderColor:'green',
+    borderColor:'#E0EBEF',
     borderWidth: 3
   }
 });
