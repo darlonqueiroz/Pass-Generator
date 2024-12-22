@@ -1,5 +1,7 @@
 # Gerador de Senhas
 ![image](https://github.com/user-attachments/assets/08ee1ed7-5bf8-4dd2-a47e-30a7f689137b)
+![image](https://github.com/user-attachments/assets/18d592a0-938d-4ab6-b5cf-f72bbd76fa1c)
+
 ## 🚀 Introdução
 ## 📒 Descrição
 > Woooow! Look at this 👀</br>
