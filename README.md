@@ -8,9 +8,8 @@
  **App Que Cria Senhas Aleatórias Usando Todo Tipo de Character Com a Quantidade de 10 á 50**:</br>
 Olá pessoal, esse foi meu primeiro projeto em react native, com a ajuda do pessoal do trabalho e do curso da Dio consegui finaliza -lo
 
-## 🤖 Tecnologias Utilizadas
-Lista das ferramentas usadas
-Criar Texto [Inkscape](https://inkscape.org/pt-br/) </br>
+## 🤖 Tecnologias Utilizadas</br>
+Criar Desenhos, LogoTipo e Marcas [Inkscape](https://inkscape.org/pt-br/) </br>
 Criar App [React Native](https://reactnative.dev/)
 
 ## 🧐 Processo de Criação
