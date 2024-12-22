@@ -15,7 +15,7 @@ Criar App [React Native](https://reactnative.dev/)
 ## 🧐 Processo de Criação
 Primeiro eu construi o desenho do cadeado no Inkscape,
 Criei um projeto em React Native usando o expor com o template Blank,
-O projeto foi dividido em três componentes, Botões, Slide e Input e Imagens .
+O projeto foi dividido em, Botões, Slide e Input e Imagens .
 
 ## 🚀 Resultados
 Em breve na playstore
