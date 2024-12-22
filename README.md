@@ -3,7 +3,7 @@
 ## 🚀 Introdução
 ## 📒 Descrição
 > Woooow! Look at this 👀
- **Criar um App Que Criasse Senhas Aleatórias Usando Todo Tipo de Character**:
+ **Criar um App Que Criasse Senhas Aleatórias Usando Todo Tipo de Character Com a Quantidade de 10 á 50**:
 Olá pessoal, esse foi meu primeiro projeto em react native, com a ajuda do pessoal do trabalho e do curso da Dio consegui finaliza -lo
 
 ## 🤖 Tecnologias Utilizadas
